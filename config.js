@@ -27,35 +27,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.sgh = 'https://github.com/Lucife-Putra'
-global.sgc = 'hhttps://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/682214729677'
-global.swb = 'https://discord.gg/'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.sig = 'https://instagram.com/_yutechgaming_'
+global.syt = 'https://youtube.com/@yutechgaming9542'
+global.sgh = 'https://github.com/Buatjebeh'
+global.sgc = 'hhttps://chat.whatsapp.com/'
+global.swa = 'wa.me/6285786777949'
+global.swb = 'https://saweria.co/FunnXMD'
+global.snh = 'https://saweria.co/FunnXMD' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '089603164484'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.pgopay = 'Minta Own'
+global.ppulsa = '085786777949'
+global.ppulsa2 = '089603164484'
+global.psaweria = 'https://saweria.co/FunnXMD'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6289603164484'
+global.nomorown = '6285786777949'
+global.namebot = 'FunnX-MD'
+global.nameown = 'YutechXzy'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6289603164484'],
+  ['6285786777949', 'YutechXzy', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,16 +103,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'By FunnX-MD' //Main Watermark
+global.wm2 = 'YutechXzy'
+global.wm3 = 'FunnX-MD | By YutechXzy'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.author = 'YutechXzy' 
+global.packname = 'YutechXzy'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'November 22 2023'
 
 
 /*============== LOGO ==============*/
